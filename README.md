@@ -9,7 +9,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/thiago_sjw/?igsh=eGtrc3k3ZGxxamI%3D#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -42,10 +42,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media-hosting.imagekit.io/ff970da613a348ab/WhatsApp%20Image%202025-05-05%20at%2020.38.47.jpeg?Expires=1841096337&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=tyvSx4rJbiEbaZoluzyJjZS4QJN4Mwb3OD0h7luI3BYr2AtwcUQB-bgIyYFTWrkOXIKEvtOMcaloUDZAjNek1aTyhmx-G4hcYJH-xZBPua87toO-xyweIGCX8oSufHC3pGF0kZSw3K~eB7Qc9WroSLNo~E~lMl0X6xbDP9~3yeyNUAam-I1-Ct5ASrakQVP1wIRjorBlCZx5sC3P-36F4P8wmLw6lWBQhZQjrQLN8aUnJimB0aTJFYUiONXcCZMge~bs-kpsQTZE-4URiqq8JvNJgkyOgFr7RG37FZwDnWzNSrrE~-zhjwhXAO2TED7NueQLGfxEj6fTNBCRYHVaPA__"  />
 
 ###
 
